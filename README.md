@@ -14,5 +14,5 @@ El tratamiento y análisis de los datos se realizó utilizando:
 - Pandas: Para la manipulación de los datos.
 - Matplotlib y Seaborn: Para la visualización gráfica de los resultados.
 
-El código y resultados estan disponibles en GitHub:  
+El código y resultados estan disponibles en:
 [Consulta el repositorio aquí](https://github.com/Floki-Dreamer/Co2_Paises/blob/main/Co2_paises.ipynb). 
