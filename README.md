@@ -1,4 +1,4 @@
-# **Emisiones de Co2 per cápita*
+# *Emisiones de Co2 per cápita*
 
 La relación entre el crecimiento económico y las emisiones de CO2 es un aspecto fundamental en la agenda de cambio climático. La premisa básica de esta agenda es la reducción de las emisiones de gases de efecto invernadero, que son responsables del calentamiento global y sus efectos adversos. En este contexto, la descarbonización de las economías se ha vuelto crucial para que los países puedan cumplir con sus compromisos internacionales, como la Agenda 2030 para el Desarrollo Sostenible y el Acuerdo de París[1](https://blogs.iadb.org/energia/es/emisiones-co2-en-america-latina-y-el-caribe-perspectivas-regionales/)
 
